@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+img{
+    height: 300px;
+
+    /* width: 200px; */
+}
+.col-sm-6{
+    margin-top: 50px;
+    margin-left: 40px;
+}
