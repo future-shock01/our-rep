@@ -53,47 +53,41 @@ animation-name: body-img
 .col-sm-6-t{
     background-color: orangered;
     height: 130px;
-    width: 300px;
-    /* text-align: center; */
     color: #fff;
-    /* font-size: 24px; */
+
 }
-/* .col-text{
+.col-text{
     font-size: 55px;  
     margin-left: 20px;
-} */
+}
 .col-text-sm{
     margin-left: 20px;
     font-size: 20px;  
 
 }
-.hero{
-    -webkit-animation-duration: 10s; animation-duration: 10s;
-    -webkit-animation-fill-mode: both;animation-fill-mode: both;
-    -webkit-animation-name: hero;
-    animation-name: hero;
+.col-sm-6-textt{
+    background-color:gainsboro;
+    height: 70px;
+    text-align: center;
+    font-size: 30px;
 }
-@-webkit-keyframes hero{
-    0%{opacity: 1;}
-    100% {opacity: 0;}
+.headed{
+    font-size: 30px;
+}
 
-}
-@keyframes hero{
-0% {opacity: 1;}
-00% {opacity: 0;}
-}
 .col-sm-6-text{
     background-color: green;
     height: 130px;
-    width: 300px;
    margin-top: 30px;
     color: #fff;
    
 }
+.bi-wallet{
+    margin-top: -20px;
+}
 .col-sm-6-back{
     background-color: rgb(83, 83, 240);
     height: 130px;
-    width: 300px;
    margin-top: 30px;
     color: #fff;
    
@@ -101,7 +95,6 @@ animation-name: body-img
 .col-sm-6-background{
     background-color: purple;
     height: 130px;
-    width: 300px;
    margin-top: 30px;
     color: #fff;
     
@@ -147,18 +140,4 @@ a{
 }
 .bi-facebook{
     font-size: 30px;
-}
-/* .hero{
-    transition: 3s all linear ;
-    
-} */
-
-.coll{
-    transition: 3s all linear ;
-}
-.coll:hover{
-   border-top-color: #000;
-    text-align: center;
-    color: orangered;
-    cursor: pointer;
 }
