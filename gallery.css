@@ -5,10 +5,13 @@ body{
 }
 img{
     height: 300px;
+    
 
     /* width: 200px; */
 }
-.col-sm-6{
-    margin-top: 50px;
+.pic{
+    margin-top: 90px;
     margin-left: 40px;
+    /* display: flex; */
+   
 }
