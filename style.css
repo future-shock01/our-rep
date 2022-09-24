@@ -69,11 +69,9 @@ animation-name: body-img
     background-color:gainsboro;
     height: 70px;
     text-align: center;
-    /* font-size: 30px; */
+   text-shadow: 9px 9px 9px blue;
+  
 }
-/* .headed{
-    font-size: 30px;
-} */
 
 .col-sm-6-text{
     background-color: green;
