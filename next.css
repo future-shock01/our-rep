@@ -9,7 +9,7 @@
    
 } */
 .main{
-    width: 400px;
+    width: 320px;
     filter: brightness(50%);
 }
 .ket{
@@ -23,6 +23,4 @@
     height: 160px;
     border-radius: 200px;
 }
-#oh{
-    background-color: #f4c141;
-}
+
