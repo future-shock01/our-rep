@@ -21,7 +21,8 @@
 } */
 .main{
     width: 320px;
-    filter: brightness(50%);
+    filter: brightness(90%);
+    
 }
 .ket{
     width: 300px;
