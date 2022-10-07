@@ -3,9 +3,9 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	
-	
-
+}
+.navbar-nav{
+    margin-left: 200px;
 }
 .jak{
 	color: #000;
