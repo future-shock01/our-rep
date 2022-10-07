@@ -1,121 +1,81 @@
-body{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-.row{
-    margin-top: 100px;
-}
-h2{
-    margin-top: 60px;
-    width: 220px;
-}
-h5{
-    margin-left: 10px;
-    font-size: 24px;
-}
-p{
-    margin-top: 30px;
-}
-a{
-    text-decoration: none;
-    color: blue;
-}
-strong{
-    color: blue;
-}
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-body{
-	line-height: 1.5;
-	font-family: 'Poppins', sans-serif;
-}
-h3{
-    color: whitesmoke;
-}
-.container{
-	max-width: 1170px;
-	margin:auto;
-}
-.row{
-	display: flex;
-	flex-wrap: wrap;
-}
-ul{
-	list-style: none;
-}
-li{
-	text-align: justify;
-}
-.footer{
-	background-color: #02091a;
-    padding: 70px 0;
-   
-}
+.home{
+    background-image: url(/images/images/pick.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+	
 
-.footer-col{
-   width: 25%;
-   padding: 0 15px;
- 
 }
-.footer-col h4{
-	font-size: 18px;
-	color: #ffffff;
-	text-transform: capitalize;
-	margin-bottom: 35px;
-	font-weight: 500;
-	position: relative;
-} 
-.footer-col ul li:not(:last-child){
-	margin-bottom: 10px;
+.jak{
+	color: #000;
 }
-.footer-col  a{
-	font-size: 16px;
-	text-transform: capitalize;
-	color: #ffffff;
-	text-decoration: none;
-	font-weight: 300;
-	color: #bbbbbb;
-	text-align: center;
+.pic{
+    height: 50px;
 }
-
-.footer-col .social-links a{
-	display: inline-block;
-	height: 40px;
-	width: 40px;
-	margin:0 10px 10px 0;
-	text-align: center;
-	line-height: 40px;
-	border-radius: 50%;
-	color: #ffffff;
-	transition: all 0.5s ease;
-    font-size: 30px;
+.ner{
+	border-top-left-radius: 50px;
+	border-top-right-radius: 70px;
+	border-bottom-right-radius: 30px;
+	width: 300px;
+	/* transform: rotate(10deg); */
 }
-.hot{
-    margin-left: 20px;
+.nerr{
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 70px;
+	/* border-bottom-right-radius: 30px; */
+	width: 200px;
+	/* transform: rotate(10deg); */
 }
-.ho{
-    margin-left: -3px;
+.os{
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 140px;
+	width: 300px;
 }
-.bi-facebook:hover{
-    color: blue;
+.oss{
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 90px;
+	width: 200px;
 }
-.bi-instagram:hover{
-    color: rgb(184, 11, 40);
+.ot{
+	border-top-right-radius: 130px;
+	border-bottom-left-radius: 50px;
+	width: 300px;
 }
-.bi-twitter:hover{
-    color: blue;
+.ott{
+	border-top-right-radius: 90px;
+	border-bottom-left-radius: 50px;
+	width: 200px;
 }
-.bi-google:hover{
-    color: green;
+.con{
+	border-top-left-radius: 70px;
+	border-bottom-right-radius: 70px;
+	width: 300px;
 }
-@media(max-width: 767px){
-  .footer-col{
-    width: 50%;
-    margin-bottom: 30px;
+.conn{
+	border-top-left-radius: 70px;
+	border-bottom-right-radius: 70px;
+	width: 200px;
 }
+.rock{
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 100px;
+	width: 300px;
 }
-@media(max-width: 574px){
-  .footer-col{
-    width: 100%;
+.rockk{
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 100px;
+	width: 200px;
 }
+.boss{
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 90px;
+	width: 300px;
+}
+.bosss{
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 50px;
+	width: 200px;
 }

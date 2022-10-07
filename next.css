@@ -1,6 +1,14 @@
 .navbar-nav{
     margin-left: 200px;
 }
+#let{
+    background: url(/images/images/eart-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text{
+    color: #000;
+}
 .pic{
     height: 50px;
 }
