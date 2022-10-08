@@ -5,12 +5,23 @@
     background: url(/images/images/eart-removebg-preview.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 .text{
-    color: red;
+    color: #fff;
+}
+#section{
+    background-color: rgb(127, 127, 127);
+    border-bottom-right-radius: 20px;
+    /* border-bottom-left-radius: 50px; */
+}
+#oh{
+    background-color: #f4c141;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
 }
 .t{
-    color: yellow;
+    color: #f4c141;
 }
 .pic{
     height: 50px;
