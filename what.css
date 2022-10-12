@@ -1,0 +1,79 @@
+.pic{
+    height: 50px;
+}
+#let{
+	background-image: url(./img/usa.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+	background-attachment: scroll;
+}
+.home-img{
+	margin-top: 50px;
+}
+#row{
+	background-color: #f4c141;
+	
+	width: 100%;
+	max-width:100%;
+}
+h2{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 60px;
+	color: #000000;
+}
+#round{
+	border-bottom-left-radius: 40px;
+	border-top-right-radius: 40px;
+	
+}
+#p-tag{
+	width: 190px;
+	/* margin-left: 170px; */
+	font-weight: lighter;
+	color: #000000;
+	margin-top: 50px;
+	
+}
+
+
+/* ol{
+	margin-left: 150px;
+}
+li{
+	margin-top: 30px;
+} */
+#cons{
+	margin-top: 50px;
+	font-family: "poppins";
+}
+.tex{
+	color: #f4c141;
+}
+.fact-item{
+	margin-top: 30px;
+}
+#ok{
+	background-color: #000000;
+	color: #fff;
+	display: flex;
+}
+#color{
+	color: #fff;
+	margin-top: 200px;	
+}
+#width{
+	height: 340px;
+	border-radius: 15px;
+	/* margin-top: 40px; */
+	margin-left: 15px;
+
+}
+#hmm{
+	
+	height: 340px;
+	border-radius: 15px;
+	margin-top: 40px;
+	margin-left: 10px;
+}

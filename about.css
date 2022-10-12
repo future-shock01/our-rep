@@ -1,142 +1,43 @@
-body{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+*{
+   margin: 0px;
+   box-sizing: border-box;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+#let{
+    background: url(/images/images/neet.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#home{
+    margin-top: 90px;
+}
+.pic{
+    height: 50px;
+}
+#family{
     font-family: "poppins";
 }
-.row{
-    margin-top: 100px;
+#mb{
+    margin-top: 40px;
 }
-h2{
-    margin-top: 60px;
-    width: 220px;
-}
-h5{
-    margin-left: 10px;
-    font-size: 24px;
+.mba{
+    margin-top: 50px;
 }
 p{
-    margin-top: 30px;
+    font-weight: bold;
 }
-a{
-    text-decoration: none;
-    color: blue;
-}
-strong{
-    color: blue;
-}
-.img{
-    height: 200px;
-    
-}
-.gimp{
-    color: solid black;
-    width: 200px;
-    margin-top: -1px;
-    font-weight: 900;
-}
-.bi{
-    margin-top: 400px;
-}
-.our{
-    margin-top: 80px;
-}
-.brief{
-    width: 200px;
-    font-size: 30px;
-}
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-body{
-	line-height: 1.5;
-	font-family: 'Poppins', sans-serif;
-}
-h3{
-    color: whitesmoke;
-}
-.container{
-	max-width: 1170px;
-	margin:auto;
-}
-.row{
-	display: flex;
-	flex-wrap: wrap;
-}
-ul{
-	list-style: none;
-}
-li{
-	text-align: justify;
-}
-.footer{
-	background-color: #02091a;
-    padding: 70px 0;
-   
+h5{
+    margin-top: -20px;
+    font: weight bold;
 }
 
-.footer-col{
-   width: 25%;
-   padding: 0 15px;
- 
-}
-.footer-col h4{
-	font-size: 18px;
-	color: #ffffff;
-	text-transform: capitalize;
-	margin-bottom: 35px;
-	font-weight: 500;
-	position: relative;
-} 
-.footer-col ul li:not(:last-child){
-	margin-bottom: 10px;
-}
-.footer-col  a{
-	font-size: 16px;
-	text-transform: capitalize;
-	color: #ffffff;
-	text-decoration: none;
-	font-weight: 300;
-	color: #bbbbbb;
-	text-align: center;
-}
-
-.footer-col .social-links a{
-	display: inline-block;
-	height: 40px;
-	width: 40px;
-	margin:0 10px 10px 0;
-	text-align: center;
-	line-height: 40px;
-	border-radius: 50%;
-	color: #ffffff;
-	transition: all 0.5s ease;
-    font-size: 30px;
-}
-.hot{
-    margin-left: 20px;
-}
-.ho{
-    margin-left: -3px;
-}
-.bi-facebook:hover{
-    color: blue;
-}
-.bi-instagram:hover{
-    color: rgb(184, 11, 40);
-}
-.bi-twitter:hover{
-    color: blue;
-}
-.bi-google:hover{
-    color: green;
-}
-@media(max-width: 767px){
-  .footer-col{
-    width: 50%;
-    margin-bottom: 30px;
-}
-}
-@media(max-width: 574px){
-  .footer-col{
-    width: 100%;
-}
+#help{
+    height: 650px;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 140px;
 }

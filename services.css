@@ -1,8 +1,8 @@
 .home{
-    background-image: url(/images/images/pick.jpg);
+    background-image: url(/images/images/control.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	/* background-position: center; */
 }
 .navbar-nav{
     margin-left: 200px;
@@ -24,7 +24,7 @@
 	border-top-left-radius: 50px;
 	border-bottom-right-radius: 70px;
 	/* border-bottom-right-radius: 30px; */
-	width: 200px;
+	width: 250px;
 	/* transform: rotate(10deg); */
 }
 .os{
@@ -35,7 +35,7 @@
 .oss{
 	border-top-left-radius: 50px;
 	border-bottom-right-radius: 90px;
-	width: 200px;
+	width: 250px;
 }
 .ot{
 	border-top-right-radius: 130px;
@@ -45,7 +45,7 @@
 .ott{
 	border-top-right-radius: 90px;
 	border-bottom-left-radius: 50px;
-	width: 200px;
+	width: 250px;
 }
 .con{
 	border-top-left-radius: 70px;
@@ -55,7 +55,7 @@
 .conn{
 	border-top-left-radius: 70px;
 	border-bottom-right-radius: 70px;
-	width: 200px;
+	width: 250px;
 }
 .rock{
 	border-bottom-right-radius: 50px;
@@ -65,7 +65,7 @@
 .rockk{
 	border-bottom-right-radius: 50px;
 	border-top-left-radius: 100px;
-	width: 200px;
+	width: 250px;
 }
 .boss{
 	border-top-right-radius: 50px;
@@ -77,5 +77,5 @@
 	border-top-right-radius: 50px;
 	border-bottom-right-radius: 50px;
 	border-top-left-radius: 50px;
-	width: 200px;
+	width: 250px;
 }
